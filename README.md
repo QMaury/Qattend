@@ -7,7 +7,7 @@ the program then reads the text file, and asks you which students are present.
 after the list is finished being read, the program will spit out the total of students present and absent.
 
 
-# Warning!
+# Warning! This program is worse than gay old men sucking each other off
 this program is unfinished, and incredibly fucking retarded.
 this is mainly just practice with POSIX shell. I'm not a teacher, or anyone who needs a program like this. literally just bored.
 
