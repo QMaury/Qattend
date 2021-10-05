@@ -1,4 +1,4 @@
-# Qattend
+# Qattend (alpha version 1.0)
 a simple program to keep track of students Qattendance written in POSIX shell.
 
 # How it works
